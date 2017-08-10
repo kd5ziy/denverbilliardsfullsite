@@ -1,0 +1,4 @@
+[15-Sep-2016 03:47:18 UTC] PHP Fatal error:  Call to a member function show_errors() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 66
+[15-Sep-2016 03:47:50 UTC] PHP Fatal error:  Call to a member function show_errors() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 66
+[15-Sep-2016 03:47:52 UTC] PHP Fatal error:  Call to a member function show_errors() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 66
+[15-Sep-2016 03:47:53 UTC] PHP Fatal error:  Call to a member function show_errors() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 66

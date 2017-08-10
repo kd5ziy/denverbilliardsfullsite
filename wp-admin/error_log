@@ -1,0 +1,354 @@
+[11-Jan-2016 20:57:58 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[11-Jan-2016 21:18:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/show-league.php on line 73
+[11-Jan-2016 22:46:41 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[15-Jan-2016 20:41:30 UTC] PHP Warning:  Illegal string offset 'group' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/connections/includes/entry/class.entry-data.php on line 1212
+[15-Jan-2016 20:41:30 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/connections/includes/entry/class.entry-data.php on line 1212
+[15-Jan-2016 20:42:05 UTC] PHP Warning:  Illegal string offset 'group' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/connections/includes/entry/class.entry-data.php on line 1212
+[15-Jan-2016 20:42:05 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/connections/includes/entry/class.entry-data.php on line 1212
+[10-Feb-2016 22:58:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[11-Feb-2016 01:01:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[11-Feb-2016 21:18:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[15-Feb-2016 18:17:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/show-league.php on line 73
+[22-Feb-2016 19:42:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '11')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+# in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[01-Mar-2016 16:05:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[01-Mar-2016 16:05:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[17-Mar-2016 00:02:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[01-Apr-2016 09:19:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:20:26 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[01-Apr-2016 09:34:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[02-Apr-2016 15:13:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[02-Apr-2016 15:13:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[05-Apr-2016 19:09:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[05-Apr-2016 19:20:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[05-Apr-2016 19:21:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[05-Apr-2016 19:27:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[05-Apr-2016 19:28:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[09-Apr-2016 21:41:27 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[09-Apr-2016 21:46:17 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[09-Apr-2016 21:46:28 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[09-Apr-2016 21:48:31 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[09-Apr-2016 22:00:03 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[09-Apr-2016 22:02:44 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[10-Apr-2016 10:28:56 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[12-Apr-2016 20:33:38 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[12-Apr-2016 20:39:56 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[12-Apr-2016 20:40:27 UTC] PHP Fatal error:  Call to a member function getTeamNumber() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 511
+[12-Apr-2016 20:45:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[12-Apr-2016 20:52:54 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[12-Apr-2016 20:54:12 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[12-Apr-2016 20:55:12 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[13-Apr-2016 05:05:44 UTC] PHP Warning:  Creating default object from empty value in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/lib/core.php on line 912
+[23-Apr-2016 20:50:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-admin/includes/template.php:1981) in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/admin/update_handicaps.php on line 3
+[23-Apr-2016 20:50:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-admin/includes/template.php:1981) in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/admin/update_handicaps.php on line 4
+[23-Apr-2016 20:50:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-admin/includes/template.php:1981) in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/admin/update_handicaps.php on line 5
+[23-Apr-2016 20:50:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/admin/update_handicaps.php on line 11
+[26-Apr-2016 18:39:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[26-Apr-2016 18:41:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[06-Jun-2016 18:14:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[07-Jun-2016 05:02:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(157): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '9')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7 in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[08-Jun-2016 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[08-Jun-2016 14:04:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[10-Jun-2016 15:17:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[10-Jun-2016 15:18:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[15-Jun-2016 13:57:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[17-Jun-2016 04:35:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[05-Jul-2016 18:47:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[05-Jul-2016 18:47:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[16-Aug-2016 20:47:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[21-Aug-2016 21:05:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 787
+[21-Aug-2016 21:05:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 788
+[12-Sep-2016 04:50:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[12-Sep-2016 04:52:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[14-Sep-2016 18:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[14-Sep-2016 18:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[15-Sep-2016 03:51:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[10-Oct-2016 08:21:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(157): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '12')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+# in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[11-Oct-2016 13:37:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[11-Oct-2016 13:39:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[11-Oct-2016 13:39:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[24-Oct-2016 22:29:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(157): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[14-Nov-2016 18:10:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[14-Nov-2016 18:11:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[14-Nov-2016 18:12:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 787
+[14-Nov-2016 18:12:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 788
+[14-Nov-2016 18:58:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[28-Nov-2016 17:41:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[30-Nov-2016 08:50:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[05-Dec-2016 10:06:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[05-Dec-2016 10:07:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[05-Dec-2016 10:08:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[28-Dec-2016 16:17:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[28-Dec-2016 16:18:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[28-Dec-2016 16:21:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[28-Dec-2016 16:21:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[28-Dec-2016 16:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[17-Jan-2017 17:24:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[23-Jan-2017 11:48:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[23-Jan-2017 11:49:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[23-Jan-2017 12:01:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[23-Jan-2017 12:02:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[23-Jan-2017 12:02:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[23-Jan-2017 12:03:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[30-Jan-2017 23:16:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[14-Feb-2017 15:56:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[15-Feb-2017 16:28:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[21-Feb-2017 16:49:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[25-Feb-2017 11:33:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[27-Feb-2017 21:40:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[27-Feb-2017 21:53:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[02-Mar-2017 14:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[03-Mar-2017 04:24:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[03-Mar-2017 04:33:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[03-Mar-2017 04:37:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[03-Mar-2017 04:42:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[03-Mar-2017 20:50:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[03-Mar-2017 20:52:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[03-Mar-2017 20:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[22-Mar-2017 21:32:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[28-Mar-2017 14:48:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[29-Mar-2017 20:13:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[10-Apr-2017 04:25:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid player identifier.' in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:227
+Stack trace:
+#0 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/doubles.php(25): my5280->getPlayer(NULL, true)
+#1 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(126): my5280_Doubles->__construct(NULL, NULL)
+#2 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/formats/match.8ballscotch.php(156): my5280->getDoubles(NULL, NULL)
+#3 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php(84): my5280_Match_8BallScotch->listGamePlayers(4)
+#4 /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php(934): my5280_Match->addScore(4, '')
+#5 [internal function]: my5280->updateScoresheet('')
+#6 /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php(503): call_user_func_array(Array, Array)
+#7  in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 227
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 860
+[10-Apr-2017 04:40:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php:860) in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/my5280.php on line 880
+[11-Apr-2017 19:59:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[08-May-2017 00:49:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 787
+[08-May-2017 00:49:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/leaguemanager/admin/admin.php:248) in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/option.php on line 788
+[16-May-2017 15:16:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[16-May-2017 15:27:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[30-May-2017 19:32:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[21-Jun-2017 18:24:04 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481
+[21-Jun-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[21-Jun-2017 20:08:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[21-Jun-2017 21:37:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[27-Jun-2017 15:24:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[13-Jul-2017 03:55:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'LeagueManagerUSFootball' does not have a method 'pointRuleDocumentation' in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/plugin.php on line 503
+[13-Jul-2017 04:19:40 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:40 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:40 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[13-Jul-2017 04:19:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/templates/scoresheets/8ballscotch_view.php on line 104
+[26-Jul-2017 21:16:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[01-Aug-2017 17:03:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[01-Aug-2017 17:04:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/ajax-contact/form-admin.php on line 439
+[02-Aug-2017 14:49:26 UTC] PHP Fatal error:  Call to a member function adjustHandicap() on a non-object in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/plugins/my5280/lib/match.php on line 481

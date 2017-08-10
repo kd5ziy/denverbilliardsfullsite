@@ -1,0 +1,2 @@
+[20-Jan-2017 21:23:52 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/registration-functions.php on line 7
+[09-Mar-2017 05:35:43 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/pmmojo/public_html/denverbilliardclub.com/wp-includes/rss-functions.php on line 8

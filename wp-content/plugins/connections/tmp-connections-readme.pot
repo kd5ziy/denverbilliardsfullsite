@@ -1,0 +1,3950 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Connections Business Directory"
+msgstr ""
+
+#. Short description.
+msgid "An easy to use directory plugin to create an addressbook, business directory, staff directory or church directory."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Dashboard admin page. A snapshot of important information about the directory."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Manage admin page. Here you can manage all the entries within the address book."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Add New Entry admin page. From here you can add new entries to the addressbook."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Categories admin page. Add as many categories as you wish to the directory. Categories do support parent/child relationships."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Templates admin page. Here you choose which template that the business directory should use when displaying the directory."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Settings admin page where you can configure the business directory options."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Role and Capabilities admin page. Here you can assign which roles have which capabilities in viewing and managing the directory."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Extensible"
+msgstr ""
+
+#. Found in description header.
+msgid "Developer Friendly"
+msgstr ""
+
+#. Found in description header.
+msgid "Languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Seamless integration</strong> with WordPress."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong><a href=\"https://wordpress.org/support/view/plugin-reviews/connections?filter=5\">Highly rated support.</a></strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/connections/changelog/\">Continuously updated</a> bringing you  new features for free."
+msgstr ""
+
+#. Found in description list item.
+msgid "The photo and logo images are fully responsive with <strong>HiDPI (Retina) display support</strong>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Dashboard admin page where you can see at a glance today's anniversaries and birthdays as well as upcoming anniversaries and birthdays."
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple entry types from which to choose. They are individual, organization and family. The family entry type is unique to Connections. This entry type allows you to group individuals together as a family which makes Connections ideally suited for creating church directories."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Repeatable fields</strong> for address, phone numbers, email, IM, social media, links and dates."
+msgstr ""
+
+#. Found in description list item.
+msgid "You control which entries are viewable to the public and which entries are private, viewable for logged in users only. You can even have entries set as unlisted so only admins can view them."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scalable,</strong> manage directories which <a href=\"https://wordpress.org/support/topic/scales-to-at-least-250000-entries\">contain hundreds of thousands of entries</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Category support.</strong> Categories can be hierarchical and entries can be assigned to any number of categories."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>CSV Export</strong> of addresses, phone numbers, email addresses and dates."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Role capability support</strong>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Displaying your entries on the frontend is as simple as putting a shortcode on a page. Don't let this simplicity fool you. The shortcode provides a dizzying array of options that are just too numerous to list. To learn more, <a href=\"http://connections-pro.com/documentation/plugin/shortcodes/\">go here</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>SEO.</strong> Every entry outputs following the <a href=\"http://microformats.org/wiki/hcard\">hCard</a> spec. Soon to be updated to following Schema.org."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong><a href=\"http://connections-pro.com/extensions/\">Extensible</a></strong> and developer friendly."
+msgstr ""
+
+#. Found in description list item.
+msgid "Robust <strong>templating support</strong> with the <a href=\"http://connections-pro.com/2015/07/27/feature-preview-template-customizer/\">Template Customizer</a>. Several basic templates are provided to get you started with many more <a href=\"http://connections-pro.com/templates/\">premium templates available</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-toolbar/\">Toolbar</a> :: Provide quick links to the admin pages from the admin bar."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-business-directory-login/\">Login</a> :: Provides a simple to use login shortcode and widget."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-business-directory-hours/\">Business Hours</a> :: Add the business open hours."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-business-directory-income-levels/\">Income Level</a> :: Add an income level."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-business-directory-education-levels/\">Education Level</a> :: Add an education level."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections-business-directory-languages/\">Languages</a> :: Add languages spoken."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/connections-business-directory-hobbies/\">Hobbies</a> :: Add hobbies."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/connections-business-directory-face-detect/\">Face Detect</a> :: Applies face detection before cropping an image."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/authored/\">Authored</a> :: Displays a list of blog posts written by the entry on their profile page."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/contact/\">Contact</a> :: Displays a contact form on the entry's profile page to allow your visitors to contact the entry without revealing their email address."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/csv-import/\">CSV Import</a> :: Bulk import your data in to your directory."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/custom-category-order/\">Custom Category Order</a> :: Order your categories exactly as you need them."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/form/\">Form</a> :: Allow site visitor to submit entries to your directory. Also provides frontend editing support."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/link/\">Link</a> :: Links a WordPress user to an entry so that user can maintain their entry with or without moderation."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/rot13-email-encryption/\">ROT13 Encryption</a> :: Protect email addresses from being harvested from your business directory by spam bots."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/siteshot/\">SiteShot</a> :: Show a screen capture of the entry's website."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/add-on/widget-pack/\">Widget Pack</a> :: A set of feature rich, versatile and highly configurable widgets that can be used to enhance your directory."
+msgstr ""
+
+#. Found in description list item.
+msgid "Open development on <a href=\"https://github.com/shazahm1/Connections\">Github</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Access to <strong>180 action hooks</strong> and over <strong>300 filters</strong> ... and counting."
+msgstr ""
+
+#. Found in description list item.
+msgid "Term API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom Metabox and Fields API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Template Engine and API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Fragment Cache API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Log API (stateless and stateful)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin Notices API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Email API."
+msgstr ""
+
+#. Found in description list item.
+msgid "Settings API."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/2014/05/04/quicktip-custom-css/\">Custom Core CSS</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/2014/05/07/quicktip-custom-css-templates/\">Custom CSS for Templates</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://connections-pro.com/2014/06/04/quicktip-custom-template-override-files/\">Custom Template Override File</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Arabic [63% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Catalan [55% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian (Croatia) [23% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Danish [32% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Danish (Denmark) [30% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (Netherlands) [51% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "French (France) [64% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "German (Germany) [49% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Greek (Greece) [72% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hebrew (Israel) [64% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hungarian (Hungry) [54% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian (Italy) [31% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Norwegian [13% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Persian (Iran) [64% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish (Poland) [55% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (Brazil) [52% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (Portugal) [24% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian (Romania) [73% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (Russia) [28% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Serbian (Latin) [3% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (Latin America) [51% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (Spain) [68% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thai [1% Complete]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish (Turkey) [60% Complete]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://connections-pro.com/\">Homepage</a> | <a href=\"http://connections-pro.com/showcase/\">Showcase</a> | <a href=\"http://connections-pro.com/documentation/plugin/\">Documentation</a> | <a href=\"http://connections-pro.com/support/\">Support</a> | <a href=\"http://connections-pro.com/templates/\">Templates</a> | <a href=\"http://connections-pro.com/extensions/\">Extensions</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Quite simply, Connections Business Directory is the <a href=\"https://wordpress.org/support/view/plugin-reviews/connections?filter=5\">best directory plugin available</a> for WordPress. Its simplicity in design and function, vast array of unique features and versatility are the reasons more and more people are turning to Connections for their directory needs. You can use Connections to create a simple address book, maintain a staff directory and run a business directory or link directory. Connections was built bottom up to be as configurable as possible while providing the features you need. Read on to learn about some of the best features Connections has to offer..."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Here are some great <strong>free extensions</strong> (with more on the way) that enhance your experience with the business directory:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Utility</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Custom Fields</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Misc</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Premium Extensions</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The directory has a very flexible template engine. The loading of template and CSS are context aware. This means you could create specific templates that load when a user visits a specific entry, category, postal code and more."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Templates and CSS overriding is very granular and update safe. Check out these links for the details:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Connections Business Directory has been embraced around the world and has been translated by its users in the following languages."
+msgstr ""
+
+#. Found in installation header.
+msgid "Using the WordPress Plugin Search"
+msgstr ""
+
+#. Found in installation header.
+msgid "Uploading in WordPress Admin"
+msgstr ""
+
+#. Found in installation header.
+msgid "Using FTP"
+msgstr ""
+
+#. Found in installation header.
+msgid "Requirements"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to the <code>Add New</code> sub-page under the Plugins admin page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for <code>connections business directory</code>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "The plugin should be listed first in the search results."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the <code>Install Now</code> link."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Lastly click the <code>Activate Plugin</code> link to activate the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "<a href=\"http://wordpress.org/plugins/connections/\">Download the plugin zip file</a> and save it to your computer."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the <code>Upload</code> link."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select Connections Business Directory zip file from where you saved the zip file on your computer."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the <code>Install Now</code> button."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Extract the Connections Business Directory zip file."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a new directory named <code>connections</code> directory in the <code>../wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the files from the folder extracted in Step 2."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin on the Plugins admin page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "<strong>WordPress version:</strong> &gt;= 3.8"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<strong>PHP version:</strong> &gt;= 5.2.4"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<strong>NOTE:</strong> Upgrading from version 0.6.1 and newer only is supported. Previous version must upgrade to 0.6.1 before upgrading to the current version."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<a href=\"http://connections-pro.com/documentation/plugin/install/\">Installation instructions can be found here.</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Add support for term meta queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce the Term Meta UI API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Dequeue the Themify Customizer scripts because it takes over the Customizer panel when loaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct variable names in cnEntry::getBirthday(). Copy/paste strikes again :/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Change the way the callback strings for a couple settings are escaped because they were causing PHP notices to be displayed for a user."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Simplify an if statement because wp.org would not allow it to commit as structured."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check that an entry was returned before changing post's dates in cnSEO::postDates()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check to ensure entry was returned before adjusting the meta page title in cnSEO::filterMetaTitle()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check the post and post ID properties are set before checking against them in cnSEO::filterPostTitle()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check to ensure entry was returned before adjusting the page title in cnSEO::filterPostTitle()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check to ensure entry was returned before adjusting adding page meta desc in cnSEO::metaDesc()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Ensure $description is set before using to prevent PHP warning in cnSEO::metaDesc()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check to ensure entry was returned before added the admin menu node in cnEntry_Action::adminBarMenuItems()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct column ID when selecting a term after it being edited."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct <code>cn_excerpt</code> filter name, removed the double underscore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove used of deprecated methods in cnSEO."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the plugin prefix from Settings API calls in cnSEO."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Check for string length 0 to be more explicit in cnSEO::metaDesc()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unused global $connections var throughout cnSEO."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update category note about deleting a category that the assigned entries will be reassigned to the default category."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change admin page titles from h2 tags to h1 tags to be WordPress 4.3+ compliant."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated core WP function get_screen_icon() from the Roles admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of the core WP deprecated function get_screen_icon from the Settings API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add <code>id</code> attributes to the list actions and entry actions so they can be easily targets with CSS <code>id</code> selectors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Make cnShortcode::find() more robust by altering the regex to search only for the tag being searched for rather than all registered shortcode tags."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Alter cnShortcode::single() to work with the $matches returned from cnShortcode::find() instead of the found tag attributes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnFormatting::toBoolean() to use filter_var() to simplify method using a core PHP function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak the admin publish metabox visibility section so it does not interfere with the Term Meta UI."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unused commented out code in cnvCard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct capitalization of CSV in readme.txt and changelog.txt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of latitude in cnvCard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update POT file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update all MO files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N Add Greek translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: phpDoc fixes for cnSEO::metaDesc()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Add a new CSV export option which can be used to export most entry data into a single CSV file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnCSV_Export::escape()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the <code>atts</code> return option in cnShortcode::find()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Make sure to pass all shortcode options (+slug) so the single entry view to provide backwards compatibility to all shortcode options based templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Improve backward support for legacy anniversary field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Improve backward support for legacy birthday field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the entry type, family name and organization fields to the CSV export for addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the entry type, family name and organization fields to the CSV export for dates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the entry type, family name and organization fields to the CSV export for phone numbers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the entry type, family name and organization fields to the CSV export for email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnCSV_Export::addSlashesAndQuote() to cnCSV_Export::escapeAndQuote(). Use cnCSV_Export::escape() to excape the CSV text string."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change usage of cnCSV_Export::addSlashesAndQuote() to cnCSV_Export::escapeAndQuote() throughout."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unnecessary return string in cnCSV_Batch_Export::writeHeaders()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update EDD-SL library to latest version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: CSV batch export addresses, phone numbers, email address and dates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Do not double encode the edit entry URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the settings export/import tab ID and callback to be more specific to make way for the CSV export tab and callback."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Enqueue the System Info in the System Info tab callback so it only loads on its tab."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Update the Profile template to support the Template Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Require the plugin update API in remote viewing of system info."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Prevent duplicate content on single entry profile detail page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the cn-gmap class to the map block so it can easily be selected with CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated like_escape() throughout."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Check that json_decode() returned an object before checking value of a property in cnGeo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Enqueue CSS and JavaScript using relative protocol URL/s."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update Chosen to 1.4.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update Font Awesome to 4.4.0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update jQuery goMap to 1.3.3."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update jQuery qTip to 2.2.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update MarkerClustererPlus to 2.1.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update picturefill to 2.3.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update jQuery validate to 1.14.0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove unused jQuery Preload."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove unused jQuery preloader."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove unused jQuery spin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove unused jQuery spin.js."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnURL::makeProtocolRelative()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnImage::insertIntoMediaLigrary(). Required further development, to be used in future versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Address bug that prevented the default format attribute from being changed via a filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add updated jQuery UI styles to match the current WP admin style and color schemes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add plugin update available info to the System Info."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update the mshot API URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Enqueue the jQuery data picker by handle only when rendering the metabox datepicker control."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Properly set form action when using the <code>home_id</code> shortcode option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnURL::makeRelative()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move the social media icons to the bottom of the entry contact info in the Default Entry Card."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Hopefully properly deal with hosts that force open_basedir in cnTemplateFactory::scan()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update minified CSS file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Fix to make the image/logo hover string translation ready."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the home_id shortcode option in cnTemplatePart::formOpen()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove a PHP_EOL in cnHTML::input() which was causing unnecessary spaces to be added between input fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct bug preventing activation of individual template types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set default template image placeholder to not display by default matching implementation of previous version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add default style to remove box styles applied to images by themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: The category select customizer message needs to be displayed only on the results list view."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce the Template Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Complete rewrite of the Default Entry Card template to support the new Template Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Add action which runs after the template's registered CSS and custom CSS files have been enqueued."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the bottom bulk action control on the categories admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check that $atts['selected'] is numeric in CN_Walker_Term_Select_List_Enhanced::render() to prevent PHP notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Code cleanup of cnHTML to better meet coding standards and code de-duplication."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Code cleanup of cnMetaboxRender::fields() to better meet coding standards and reduce code duplication by utilizing cnHTML."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: cnHTML::echoOrReturn() should be a static method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the legacy template installer admin action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the Template and Extension Dashboard metaboxes since they are no longer relevant."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add link to the new Hobbies extension to the readme.txt file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove deprecated templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add filter to the template to get via the template slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add compatibility filter to used the default template if a deprecated/removed template is being used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: If script debugging is enabled to not check for minified CSS and JS files when loading template assets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unused var_dump()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify ternary in cnSettingsAPI::registerFields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove padding from the last table row in the metaboxes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set height of template thumbnail to auto."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename filter <code>cn_list_template_init</code> to <code>cn_load_template</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Apply <code>cn_load_template</code> filter to the function defaults rather than the function $atts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak to cnOutput::getNotesBlock(). Move the before/after attributes to be hard coded making the attributes empty. This makes it consistent with the other output functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak to cnOutput::getBioBlock(). Move the before/after attributes to be hard coded making the attributes empty. This makes it consistent with the other output functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify logic which appends the before/after attributes to the output of cnOutput::getImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Small Tweak to cnOutput::getOrgUnitBlock() to allow suppression of either/or the org or unit (dept)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Check for string length rather than using empty when checking for the parts of the name so values of <code>0</code> are valid."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Check for string length rather than using empty when checking for the parts of the contact name so values of <code>0</code> are valid."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add a containing div around the output of cnOutput::getCategoryBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify logic of cnOutput::getCategoryBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename action <code>cn_action_entry_actions-after</code> to <code>cn_entry_actions-after</code> to match naming style."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Make logic for determining if the requested template has been found by checking if it is an object instance of cnTemplate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support to the Settings API for applying settings defaults for the Template Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add filter so active template can be overridden and set to the correct template being customized."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Disable the output of the template parts form open/close if the current view is the Customizer preview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the supports property default when a template is registered with cnTemplateFactory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Complete refactor of the code for the Templates admin page to make it cleaner and more maintainable and enable support for the Template Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Misc CSS tweaks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak logic to cnTemplate::getThumbnail()  so it only returns a populated array if a thumbnail exists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove extra whitespace."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling in phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update minified CSS files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update the POT file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update the MO files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Minor phpDoc fixes in the Metabox API classes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to filter <code>cn_load_template</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct phpDoc for cnOptions::getActivateTemplate()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add @link to phpDoc for cnSettingsAPI::addSettingsField()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct param type in phpDoc for cnHTML::attribute()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: The default category \"Uncategorized\" can now be renamed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: The default category can now be changed to any category."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Add support for a category field type in the Settings API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnSettingsAPI::set()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnOptions::getDefaultCategoryID()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct the label for attribute for the search input on the Connections : Manage admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused param when using delete_option()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove dead code, cnRegisterSettings::getPage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated use of get_screen_icon() on the Connections : Manage admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct a few more misspellings in inline code comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct code spacing in cnRegisterSettings::registerSettingsFields() to bring it up to coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add a couple more properties to the connectionsLoad class that are being set by cnRetrieve::entries() so they are documented."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc for the global $connections var in cnScript::registerScripts()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct code spacing in cnSettingsAPI::get() to bring it up to coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct code spacing in cnSettingsAPI::registerFields() to bring it up to coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix PHP ternary to be compatible with older version of PHP. This could cause the Connections : Tools admin page to not display."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct anchor target when a link is linked to the image or logo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct CN_Email_Log_List_Table::column_default() to be compatible with parent::column_default()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove indentation comment from displaying in the System Information."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure data for registering a log type is valid before attempting to register it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure data for registering an email log type is valid before attempting to register it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Prettify class cnImage() to better meet coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix PHP error <code>Parse error: syntax error, unexpected T_STATIC in ../wp-content/plugins/connections/includes/class.utility.php on line 1866</code> on older versions of PHP."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Add the Tools admin page with the System Info tab with the ability to email and/or share a secret URL to share the system info."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce the ability to export/import the settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce the ability for an admin to view and manage the email logs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnString::quickRandom()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnString::random()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnFunction::decodeJSON()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnSettingsAPI::getAll(), cnSettingsAPI::download() and cnSettingsAPI::import()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnLog::delete()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnLog::views()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Include theme compatibility file with a filter to make images and logos compatible in the ProPhoto theme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in cnOutput::getContentBlock() that prevented the use of the content block name if the content block was registered as a single entry view content block."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug throughout cnEmail referring to a nonexistent charSet var."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct param default in cnAdminActions::setEntryStatus()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix reference bug in cnLog::deleteConnected()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change cnFormatting::toYesNo() to a static method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Do not create the .htaccess file in the TimThumb folder since it is no longer needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move the vCard download template_redirect action callback function to static method cnvCard::download()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the dead code in the deactivation callback."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the Dashboard System widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of the cnvCard class on the Manage admin page since it is no longer needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnOutput::getPhoneNumberBlock() to cleanup code and added a couple new filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update cnLog::getConnected() to support getting logs of multiple types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update cnLog::getCount() to support getting log count of multiple types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Make cnLog::types() a public method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspellings in inline code comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Include the Browser class by Chris Schuld."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: phpDoc fixes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc for the vars being extracted in cnAdminMenu::menu()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Use Yoda conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Prettify cnvCard() to better meet coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Stub phpDoc for cnAdminAction class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Allow admins and editors (roles with unfiltered_html capability) to use the Media Manager to insert images in the Bio and Notes fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce the new stateful cnLog()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce logging of email sent using cnEmail(). This will enable logging of email sent via Contact and Form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Add support for the WP Mail Logging plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Add support for the Email Log plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Add support for the Log Emails plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Prevent WP Super Cache from purging the page cache when a log in added/updated by cnLog()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "COMPATIBILITY: Prevent WP Rocket from purging the page cache when a log in added/updated by cnLog()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Ensure bio and notes fields are unslashed before displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix admin sortable repeatable fieldsets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix limit bug when retrieving phone numbers by type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix limit bug when retrieving email addresses by type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct the defaults array initialization in cnOutput::getAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused param in cnOutput::getLogoImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused global cnOutput::getImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Properly init arrays throughout cnOutput()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add limit support when retrieving addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated args sanitation function in cnOutput::getAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function in cnOutput::getImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated args sanitization function throughout cnOutput()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnLog() to cnLog_Stateless(), move it to its own folder/file and update its usage in cnImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEmail::send(), break it apart into smaller more maintainable methods."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Remove orphaned MO file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup code alignment in cnOutput::getAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix code alignment of defaults array in cnOutput::getImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct several phpDoc params errors in cnOutput()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Adjust filters and actions in cnEmail::send() for better compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Prettify code in cnDate() to better meet coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Bio and Notes fields now supports oEmbed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Add new helper function cnImage::sideload()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnFunction::parseStringList()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW: Introduce cnFormatting::prepareINPlaceholders()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Default attributes for the slider field type were not properly being set in cnMetabox_Render::fields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unnecessary string comparisons before concatenation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for lifetime support license keys."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change several instances of hard coded directory separators to the the PHP constant instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add thank you to admin footer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for the <code>action</code> override option for wp_handle_upload() in wrapper function cnFile::upload()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the <code>cn_upload_file_options</code> filter to cnUpload::file() to allow the default overrides passed to wp_handle_upload() to be overridden."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove dead code in cnMetabox_Render::fields() in the <code>rte</code> field type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update the readme.txt file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use cnSanitize::html() for the rte field type in cnMetabox_Render::fields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use cnSanitize::quicktag() for the quicktag field type in cnMetabox_Render::fields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Do not run the string thru wp_kses_post() if the current user has the unfiltered_html capability in cnSanitize::html()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Do not run the string thru wp_kses_data() if the current user has the unfiltered_html capability in cnSanitize::quicktag()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Apply all the filters applied to the post content to both the bio and notes fields when being displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove all usages of deprecated admin message functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unnecessary call to plugin_basename() when defining plugin constants."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Utilize cnFunction::parseStringList() throughout cnEntry to remove code duplication."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify ternary in cnEntry::setAddresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct a couple misspelling in the phpDoc for cnMetabox_Render::fields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add support for the bio and notes fields in cnSanitize::field(), matching the core WP filters for post_content on the content_save_pre hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnEntry::getBio() to use cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnEntry::setBio() to use cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnEntry::getNotes() to use cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnEntry::setNotes() to use cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnOutput::getNotesBlock(), removing direct usage of WP_Embed::run_shortcode() and do_shortcode()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnOutput::getBioBlock(), removing direct usage of WP_Embed::run_shortcode() and do_shortcode()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor loadTextDomain() to be more variable for reuse."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Move cnFormatting::replaceWhatWith() to cnString::replaceWhatWith()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Move cnFormatting::normalizeString() to cnString::normalizeString()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Move cnFormatting::preslashit() and cnFormatting::unpreslashit() to cnURL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Move cnFormatting::excerpt() to cnString::excerpt()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: phpDoc usages of the global $wpdb in many of the methods in cnRetrieve."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add support for the address fields in cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add $context param to cnEntry::setAddresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnEntry::setAddresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Complete refactor of cnEntry::getAddresses() for better readability and code standards compliance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add the $context param to cnEntryMetabox::address()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc of cnEntryMetabox::address()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnRetrieve::setQueryVisibility() for better readability and code standards compliance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Complete refactor of cnRetrieve::address() for better readability, code standards compliance and greater flexibility for defining queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnRetrieve::setQueryStatus()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnRetrieve::addresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Escape URL for search message clear message button."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Refactor cnTemplate::locate() to fix inconsistencies in the priority loading order of template override resource files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function in cnTemplate::filenames()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for the <code>license_not_activable</code> error message response from EDD-SL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for base name in cnLocate when searching for template files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add a filter to cnURL::permalink() so the URL can be filtered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add a filter to the URL for cnTemplatePart::searchingMessage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set the default template type to 'all' and only override if the <code>list_type</code> option is set in cnTemplateFactory::loadTemplate()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Clear the options/transient caches when the permalink structure is changed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the notranslate class from a link title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function in cnLocate::fileNames()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Prefix the contact-block class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweaks to cnOutput::getLinkBlock() so filters to output could be added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: And additional filters to cnOutput::getEmailAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak to add a bit of padding to the metabox table rows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak logic in cnURL::permalink() to properly id the page_id query var to the site's static home page when the directory and/or widgets are added to the static home page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change cnTemplatePart::echoOrReturn() to be a protect function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move the before/after action list logic to their own callback functions and add them to the cn_action_list_{before|after} action hooks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the cn_list_{before|after}_body action hooks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Allow the results list body to be overridden by using a template override file in cnTemplatePart::body()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unnecessary PHP_EOL in cnTemplatePart::body()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Assign get_query_var('cn-view') to the $view var for reuse in switch in cnShortcode::view()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Make the shortcode view switch pluggable in cnShortcode::view() to allow new views to be registered and processed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the default view from card to list to cleanup nomenclature for the forthcoming List View extension."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling of search in phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling in code comment in cnTemplate::getPath()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling in phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling in phpDoc in cnLocate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspellings in code comment."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Stub phpDoc for class cnTemplate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix phpDoc for cnTemplate::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplate::getAuthorURL()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplate::getThumbnail()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add a no inspection flag for phpStorm."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add basic phpDoc to the Names template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnOutput::getEmailAddressBlock(). Cleanup code and add additional filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnTemplatePart::listAction_ViewAll() to be more readable and add default options so the permalink would be properly resolve to the correct page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnTemplatePart::entryAction_Back() to be more readable by flowing options on multiple lines."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Add missing $default_term property to CN_Term_Admin_List_Table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Set maximum character for indexes to 191 when creating indexes to support WordPress 4.2 move to utf8mb4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct LinkedIn spelling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix undefined index notice when updating entry meta."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Small schema tweaks when creating the db taxonomy tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for WP Mailto Links plugin via a CSS tweak."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling of urlencode()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnEntry_DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct usage of defined in cnRetrieve::entries() when checking for DOING_AJAX."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Removed couple unused variables in cnRetrieve:: search()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove extra trailing semi-colon in cnRetrieve::search()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Properly init the $defaults array in many of the methods in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in cnEntry::Addresses() where incorrect address array was being referenced during argument sanitation and being passed via a filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused variable in cnEntry::processLegacyLogo()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Properly init the $where array in cnEntry::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix return value in cnSanitize::options()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug with the duplicate term check when updating a term."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the value of the unique ID field of am IM ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnTemplatePart::entryActions()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnTemplatePart::JSON()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused global in cnOutput::getLogoImage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove a couple unused vars in cnOutput."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: cnTemplatePart::echoOrReturn() should be declared as static."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Only attempt to create FULLTEXT indexes if FULLTEXT search is enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Init array in cnTemplatePart::searchMessage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix social media field label when adding a new social media URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Prune the changelog section of the readme.txt file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update the plugin shortcode description in the readme.txt file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove error suppression in cnRegisterSettings::setSearchFields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify several ternaries used within cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use Yoda Condition checks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Line wrap long array in cnEntry::setAddresses();"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix several instance of incorrect array alignment in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::getOriginalImageURL() to be cleaner."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Be more succinct in if statement in cnEntry::getFormattedTimeStamp()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use cnURL::prefix() to ensure social network URL rather than regex."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix misspelling in var name and update usages in cnEntry::processLegacyImages()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::update() to use $wpdb-&gt;update() rather than $wpdb-&gt;query() when updating the entry table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::save() so when saving the entry so wpdb::insert() is utilized rather than wpdb::query()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the name of Cyrus Island to just Cyrpus to be more correct."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::update() to utilize cnEntry_DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use Yoda condition in cnEntry::save()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::save() to use cnEntry_DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Do not show wpdb insert/update errors in cnEntry::save() and cnEntry::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Return empty string for list actions if it has been disabled via the settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Return empty string for entry actions if it has been disabled via the settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Return an empty string for the category description if it has been disabled via the settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Minor code cleanup of cnTemplatePart::searchMessage()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Return empty string in cnTemplatePart::noResults()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: De-duplicate code to set entry defaults based on entry type before saving/updating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove usage of global $connections var in cnEntry::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix check to ensure $template is an object of cnTemplate in cnTemplatePart::noResults()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Standardize output logic of most methods in cnOutput to use cnOutput::echoOrReturn() to reduce duplicate code usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Replace instances of cnFormatting::normalizeString() to use cnFormatting::replaceWhatWith()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Replace all instances of preg_replace() with cnFormatting::replaceWhatWith() to remove code duplication."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup web page source code whitespace output from cnOutput to make it more readable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simply ternaries in cnOutput::getSocialMediaBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Return empty string in several instances in cnOutput rather than nothing or NULL so output is consistent across all methods."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup code alignment in cnOutput::getCardTelType()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup code alignment in cnOutput::getCardAdrType()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor methods in cnTemplatePart to use cnTemplatePart::echoOrReturn() to remove code duplication and simplify output logic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify cnTemplatePart::formClose()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup web page source code whitespace output from cnTemplatePart to make it more readable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unnecessary var init in cnTemplatePart::noResults()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unnecessary var init in cnTemplatePart::submit()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::header()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::cards()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::listActions()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::entryActions()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::category description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function in cnTemplatePart::categoryDescription()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::JSON()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::noResults()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix several default param values in cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix default param value in cnOutput::getAnniversaryBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix default param value in cnOutput::getBirthdayBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart:cards()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Fix code alignment in cnTemplatePart::footer()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Correct type check in cnOutput::getBirthdayBlock() since default param value was changed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify cnEntry::setPropertyDefaultsByEntryType()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct a misspelling in a code comment in cnRetrieve::entries()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of character."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling if encryption."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix a few exclude errors in .gitattributes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to global $wpdb in cnRetrieve::search()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: A few minor fixes to the phpDoc for several methods in cnRetrieve."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to global $wpdb in cnRegisterSettings::setSearchFields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Minor fixes to phpDoc for cnRegisterSettings::setSearchFields()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update the phpDoc for many of the class properties of cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Remove many extra blanks lines in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix code spacing in several places in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update several phpDoc of several methods in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add space between foreach and opening paren."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Delete some commented out dead code in cnEntry::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix a misspelling in phpDoc for cnSanitize::checkbox()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix @param var name to match name of actual variable being used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add cnSanitize::id()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct indenting of closing bracket."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add @todo in cnEntry to remove the use of a several properties in connectionsLoad."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct return type on cnTemplatePart::entryActions()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplatePart::categoryDescription()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplatePart::characterIndex()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplate::noResults()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Doc global vars in cnTemplatePart::pagination()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Doc global vars in cnTemplate::categoryLinkDescendant()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct return type in cnTemplatePart::JSON()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpStorm no inspection flag for unused var in cnTemplatePart::cards()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add new helper method cnEntry_Output::echoOrReturn()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Change up logic in cnOutput::echoOrReturn()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Many little cleanup changes to phpDoc in cnOutput."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to global var $connections in cnOutput::getPhoneNumberBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to a couple instances of $wp_embed in cnOutput."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add echoOfReturn() to cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Few minor phpDoc fixes in cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add blank line to a couple methods in cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Remove extra space after var init."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct param type in phpDoc for cnFormatting::replaceWhatWith()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct phpDoc for global used in cnCategory::getDescriptionBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Couple phpDoc fix in cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnSiteShot."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnMeta_Query."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix broken CSS dependency for the jQuery UI Datepicker when in the admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Set correct param default in cnFormatting::sanitizeString()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnColor::rgb2hex2rgb()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused global var in cnEntry::getWebsites()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Add missing 64px icon size to cnOutput::getEmailAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Correct the img tag name and remove the px from the with and height attributes in cnOutput::getEmailAddressBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnEntry::getLinks()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove dead code in cnURL::prefix()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $updateObjectCache class var in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in typecasting the anniversary and birthday vars in cnEntry::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnEntry::getAddresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove the use of the unused $connections global var in several methods in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $phoneNumbers in cnEntry::getPhoneNumbers()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $emailAddresses var in cnEntry::getEmailAddresses()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $imIDs var from cnEntry::getIm()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $socialMediaIDs from cnEntry::getSocialMedia()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused $dates var in cnEntry::getDates()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in cnEntry::update() where the honorific suffix was not be emptied when updating an entry of the organization type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: No need to set the various image size variation names to class vars in cnEntry because they are no longer used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused class var $websites from cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in cnEntry_Action::visibility() where the sanitized entry ID/s where not being used in the query."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove unused var in cnTemplatePart::index()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug in the template file override code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: If an invalid image preset is supplied in cnOutput::getImage() set the image display to false and force the display of the image fallback block with the message stating; \"Photo preset %s is not valid.\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move Dashboard template styles to the admin CSS style sheet."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove margins on admin widgets \"Remove\" buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove text align left on the bio and notes fields from the front end style sheet."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add a RTL admin style sheet."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Register and enqueue the RTL admin style sheet is the current local RTL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use PHP native function to prefix URL with a protocol."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add icons that can be used for links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function call in cnEntry::getWebsites()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of global $connections in cnEntry::getUpcoming()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: If the local is RTL, float right instead of left in the core templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the licensing API calls to use the new API endpoint."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Declare cnEntry::__construct() as public."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set default date format from NULL to 'm/d/Y' in cnEntry::getDateAdded() and refactor code accordingly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function cnValidate::attributesArray() in cnEntry. Now uses cnSanitize::args()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of deprecated function connectionsLoad::setErrorMessage() in cnEntry. Use cnMessage::set() instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove usage of deprecated function connectionsLoad::setErrorMessage(). Use cnMessage::set() instead()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify the ternary in cnEntry::setAnniversary()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Simplify the ternary in cnEntry::setBirthday()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: No need to set the logo file name to class vars in cnEntry because it is no longer used. The helper methods should always be used instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: The the user display name by using WP_User::get() rather than the magic __get() method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add a few class vars that are being added to the connectionsLoad class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use the more explicit is_null() on the $entry param in cnEntry::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Make cnMeta::tableName() public."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add meta query support to cnRetrieve::entries()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add ordering by meta_key support to cnRetrieve::entries()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add <code>cn_process_status</code> to cnEntry_Action::status()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add <code>cn_process_visibility</code> action to cnEntry_Action::visibility()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add <code>cn_process_bulk_delete</code> action to cnEntry_Action::delete()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use <code>wp_parse_id_list()</code> in cnEntry_Action::visibility() to simplify the method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use <code>wp_parse_id_list()</code> in cnEntry_Action::status() to simplify the method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the params from cnEntry_Action::clearCache() and update the phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move action <code>cn_process_cache-entry</code> action from cnEntry_Action::process() to cnEntry_Action::clearCache()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add various actions to the cnEntry_Action::clearCache() method so the entry caches are cleared when those actions are fired."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the <code>cn_clean_entry_cache</code> action to cnEntry_Action::clearCache() and deprecate the existing <code>cn_process_cache-entry</code> action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add cnEntry_action::updateTermCount()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add actions to update the term taxonomy counts when entry status or visibility has been updated via the bulk actions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set $atts['enhanced'] to FALSE if wp_is_mobile() in CN_Walker_Term_Select_List_Enhanced::render()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure URL is escaped in cnLicense::license()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the entry status filter links on the Manage admin page are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the pagination links on the Manage admin page are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the entry action links on the Manage admin page are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the \"Linked to\" profile link is escaped on the Manage admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the image src URLs and logo/photo links are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the vCard URL and the icon src URLs are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the tab URL on the Settings admin page is escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the index links in cnTemplatePart::characterIndex() are escaped()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure the character links in cnTemplatePart::index() are escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the geometry library to the Google Maps API when it is registered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Clean up the code for cnOutput::getContactNameBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Check is doing AJAX in cnRetrieve::entries()  before processing query vars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update the .pot file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update the .mo files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix the page source HTML whitespace in CN_Walker_Term_Radio_Group."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update minified CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix spelling of $visibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling of $protocol."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspellings in cnLog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix spelling error in phpDoc for cnEntry::getUpcoming()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix spelling of visibility in phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct the misspelling of empty in several places in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Corrected misspelling of preferred in several places in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of overridden in several places in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove the space between the $wpdb-&gt;prepare function and open paren per coding style in several instances in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of var $compatibilityDate()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of apparently in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct misspelling of cnEntry::displayVisibilityType() and update any instances of its usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct param type for $entry in cnEntry::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Correct param type in cnEntry::setEntryType()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Run the Members template thru the phpStorm code formatter to get it much closer to following the coding style guidelines."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update link in readme.txt to point the Live Samples page to the Showcase page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix a couple instances of misspellings of department in the phpDoc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc in cnScript."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup coding style of cnFormatting::toYesNo()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnFormatting::toBoolean()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Bring cnValidate::url() up to code style standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Bring cnValidate::email() up to coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Bring cnValidate::userPermitted() up to coding standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnURL::encode()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Clean up phpDoc for cnURL::prefix()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnURL::fromPath()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnURL::permalink()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix code formatting in cnUtility::getUUID()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup code formatting of cnUtility::remapRange()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnLog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup code formatting in cnLog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Clean up code formatting of the colors array."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: phpDoc fixes in cnColor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup code formatting a couple conditional statements in cnColor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: phpDoc fixes in cnString."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add cnOptions::loginRequired() helper function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Refactor cnValidate::userPermitted()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add the ability to sanitize URL/s to cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnEntry::getLinks()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Code cleanup of cnEntry::getLinks()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Code cleanup of cnEntry::setLinks()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnEntry::setLinks()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup the code in cnOutput::getLinkBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update .gitattributes to exclude assets in archives."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix phpDoc type for var connectionsLoad::$links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnEntry::getUpcoming()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to class vars in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc for global $connections usage in cnEntry::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::__construct()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getHumanTimeDiff()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getDateAdded()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to several methods in cnEntry where the extract() function is used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to several methods in cnEntry to document usage of the $connections global var."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update the phpDoc for several methods for the $saving attribute."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getAnniversary()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setAnniversary()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getBirthday()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setBirthday()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getBio()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setBio()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getNotes()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setNotes()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getLogoDisplay()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setLogoDisplay()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getLogoLinked()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setLogoLinked()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::setLogoName()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc for cnEntry::getAddedBy()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getSortColumn()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::getEditedBy()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::delete()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::save()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to cnEntry::save() for the global $connections var()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add @return to phpDoc for cnEntry::getFormattedTimestamp()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc for the $slug param to cnEntry::setSlug()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup of phpDoc for cnEntry::displayVisibilityType()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnEntry::getStatus()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnEntry::setStatus()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Bring cnEntry::getAddedBy() up to coding style standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Bring cnEntry::getEditedBy() up to coding style standards."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Clean up phpDoc for cnRetrieve::entry()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix the @return type tag in cnRetrieve::entry()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct the phpDoc var type of several constants."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup a few phpDoc issues in cnUpload."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Correct phpDoc var type in phpDoc for cnMeta_Query::get_sql()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnEntry_action::status()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnEntryAction::visibility()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update phpDoc for cnEntry_Action::delete()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to the <code>cn_process_status</code> action hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to the <code>cn_process_visibility</code> action hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc to the <code>cn_process_bulk_delete</code> action hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Fix misspelling in phpDoc for cnLicense::license()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add phpDoc the the global vars used in cnOutput::vcard()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplatePart::index()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Cleanup phpDoc for cnTemplatePart::currentCharacter()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce CN_Walker_Term_Select_List_Enhanced."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce CN_Walker_Term_Radio_Group."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: When creating an excerpt the <code>more</code> string should only be appended if <code>length</code> is exceeded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Add missing var to the <code>cn_meta_field- {type}</code> action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix CSS border on search message display div."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: In CN_Walker_Term_Select_List_Enhanced::render(), ensure when querying by <code>parent_id</code> ensure that <code>child_of</code> is reset to its default value of <code>0</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Refactor cnTerm::tree() to vastly improve its performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Replace existing code in cnTemplatePart::categorySelect() to use CN_Walker_Term_Select_List_Enhanced."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Replace \\n with PHP_EOL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Streamline CN_Walker_Term_List a little to make it more efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set current category in CN_Walker_Term_List."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use CN_Walker_Term_Check_List to render the link list of categories rather than using cnTemplatePart::categoryLink()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove dead code in cnTemplatePart::categoryLink()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add querying by <code>parent_id</code> support to CN_Walker_Term_List::render()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update cnTemplatePart::category() to use the cnTemplatePart::categoryChecklist() helper function when layout is not a table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update cnTemplatePart::category() to use the cnTemplatePart::categoryRadioGroup() helper function when layout is not a table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the old code that the new term radio group and checklist walkers replaced."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Correct settings for _n() keyword in the grunt checktextdomain command."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Exclude the node_modules folder in the makepot grunt task."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add the cnTemplatePart::categoryChecklist() helper function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add the cnTemplatePart::categoryRadioGroup() helper function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove unused var."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove extra white space."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Insert whitespace."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix a couple misspellings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix code alignment."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Add Stitcher to the social media options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the path to the markerclusterer library."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the CN_CUSTOM_TEMPLATE_URL path to properly point to the content_url()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Adjust the substring position and length in cnRetieve::upcoming() so it only returns MM-DD."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: When performing an upcoming date(s) query, do not convert the date from @@session.time_zone to +00.00 because it caused entries to be returned from +1day more than what should have been returned."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Make sure to pass the $homeID var when calling get_permalink() when not $wp_rewrite-&gt;using_permalink()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Custom field titles/names should not be wrapped in the  tag, only the actual field should be."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add <code>notranslate</code> to several areas in cnOutput to prevent Google Translate from translating names and such."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Beautify the admin CSS file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Beautify the frontend CSS file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Run admin CSS thru Autoprefixer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Run the frontend CSS thru Autprefixer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove invalid/old CSS rules. Remove unit on 0 values. Optimize style declarations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Delete unused sprite."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the icon markup from the Update page ... must have missed it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Address many issues reported by csslint in cn-admin.css."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Redo classes for quicklink buttons so chained classes are not required for the desired style/hover effect."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change class name cn-background-blue to cn-button-blue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak button CSS to more match the admin style buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the usage of the $connections global in cnSchema::addDefaultCategory()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup admin button styles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the class name <code>button-warning</code> to <code>cn-button-warning</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update Arabic translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update Romanian (Romania) translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update all translation MO files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update grunt devDependencies versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add .jshintrc to the .editorconfig file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add the .csslintrc to the .editorconfig file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add lint-css task to grunt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Remove invalid rules from .jshintrc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add lint-js task to grunt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add lint-css:strict task to grunt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Update .gitignore to ignore the logs folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: Add logfile-grunt to devDependencies in package.json."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DEV: A few minor phpDoc fixes in cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move third party js libraries from assets folder to the vendor folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Move the jQuery qTip CSS from the assets folder to the vendor folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update css/js paths to the vendor folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use grunt-contrib-uglify to minify the JS files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: The select that add the <code>sort_column</code> needs to be part of the query when performing a random query so the query will not fail when filtering by character."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: When updated meta by ID, the value should be unslashed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: The geocode should not be shown on the frontend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: No need to runt the category description thru __()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: No need to runt the bio thru __()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: No need to runt the notes thru __()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Add missing text domains."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Fix misspelled text domains."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update MO files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Ignore the connections-en_US.mo file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Include the Arabic translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Include the Thai translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add Grunt to .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update Eclipse in .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update Sublime Text in .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Change phpStorm comment header in .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Change PO File comment header to i18n and move connections.mo to be under it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add a Misc section in .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Change the Misc comment header to Dreamweaver."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove several unnecessary sections from .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add Transifex to .gitignore."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add package.json for Node.js."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add Gruntfile.js."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Ignore the <code>build</code> folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Minor readme.txt changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Initial readme.md commit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add grunt-uglify to package.json."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add minify-js to grunt tasks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add grunt-autoprefixer to package.json."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add prefix-css task to grunt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add grunt-contrib-cssmin to package.json."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add minify-css task to grunt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Clean up grunt syntax to be uniform."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: More complete package.json file with a config key to be used in the Gruntfile.js."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update many of the tasks to use the variable from the config key in the package.json file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fixed Parse error: syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM fatal error with PHP 5.2.x."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update the connections.pot file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add the Transifex config file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Ignore the connections.mo file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove blank line."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Completely refactored of the categories admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce CN_Walker_Term_Select."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce CN_Walker_Term_Check_List."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce CN_Term_Admin_List_Table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce table and walker methods to cnTemplatePart."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnTerm::isAncestorOf()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnTerm::objectCache()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnTerm::cleanRelationshipCache()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce cnFunction::implodeDeep()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE: Introduce the cnMeta::{*}ByID() methods."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use the new CN_Walker_Term_Select_List walker class to render the category select drop down on the manage admin page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor the category metabox to use the new CN_Walker_Term_Check_List walker class to render the category checklist."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnMeta::add() to allow inserting meta into other tables based on the object type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnMeta::get. Also implement new method cnMeta:updateCache(), a required method of cnMeta::get()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnMeta::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnMeta::delete()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove use of local static $cache var from cnMeta."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove usage of stripslashes_deep() in cnMeta::add()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the \"old style\" filters which mimicked the WP core from cnMeta::update()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Use wp_parse_id_list() to sanitize the entry ID/s to delete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the \"pre_term_description\" filter right before saving a category so HTML will not be stripped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Declare cnTerm::get_Hierarchy() as public instead of private."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Streamline return logic of cnLocate::file()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change some code order of cnTerm::getTaxonomyTerms() to match core WP function get_terms()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the class.template-walker-category-list.php file from being included on plugin load. Use cnTemplatePart::walker() to load and init instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the cnCategoryObject class which has been replaced by the new list table and walker classes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Update the category filter on the manage page to properly check for the \"Show All...\" option value used by the new term walker class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove the admin notice about the cache folder not being writable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename filter cn_get_entry_terms to cn_get_object_terms."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename action cn_set_entry_terms to cn_set_object_terms."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnTerm::get_entry_terms() to cnTerm::getRelationships()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnTerm::set_entry_terms() to cnTerm::setRelationships()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnTerm::remove_entry_terms() to cnTerm::deleteRelationships()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnTerm::objectCache() to cnTerm::getRelationshipsCache()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Rename cnTerm::update_entry_count() to cnTerm::updateRelationshipCount()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Small refactor to cnTerm::getRelationships() which add a couple filters which can be hooked into."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Declare cnTerm::isAncestorOf() as a public static function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Clean entry/term relationships on term update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Clean entry/term relationships on term delete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::getMeta() to be compatible with the data structure returned by cnMeta::get() due to the cnMeta refactor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnOutput::getMetaBlock() and cnOutput::renderMetaBlock() to be compatible with the data structure returned by cnMeta::get() due to the cnMeta refactor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnAdminActions::processEntryMeta() to be compatible with the refactored cnMeta."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnAdminActions::categoryManagement() to be compatible with the new bulk actions structure due to refactoring the categories admin page around WP_List_Table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnAdminActions::saveUserFilters() to be compatible with the new category select on the manage admin page due to refactoring the category select around the Walker class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntryMetabox::meta() to query the custom fields meta directly from the db rather thru cnMeta so we can also retrieve the meta ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntryAction::meta() to be compatible with the refactored cnMeta::get() structure so the entry meta can be properly deleted."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnRetrieve::entryCategories() to be compatible with the refactoring done to cnTerm."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Change the Settings API priorities from .1 to 0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Tweak the loading of the plugin textdomain so it's ready for language packs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add esc_attr() in the 'edit' context for the 'name' field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add esc_html() in the 'display' (default) context for the 'name' field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Call cnFormatting::toBoolean() statically in _upcoming_list()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add support for the term meta table activation installation and db update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add cnMeta::tableName()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Delete term meta when a term is deleted."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fixed selected terms in the term checklist walker."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Check to ensure the meta keys are not empty before building the select drop down."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Append the paged query var to the bulk category actions callback."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix text domains."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Ensure any template can be used in the the [upcoming_list] shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix the selected category in the category drop down when using the category slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove the use of htmlentities() when retrieving entries by category name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Pass an array to end() rather than the results of an expression to avoid possible fatal error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Remove the page title and page permalink filters from the wp_list_pages() function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix applying image opacity when using the Imagick editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fixed several bugs in cnMeta where vars were named incorrectly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Escape the meta key select options in the custom fields metabox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Forgot to apply the wpdb table prefix to the table name in cnMeta::tableName()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: cnMeta::deleteByID() should have been declared public static."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspellings in phpDoc in areas of code with edits/changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix phpDoc issues in class.schema.php."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix phpDoc issues in cnLocate::file()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: phpDoc fixes in cnTemplatePart::locate()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: phpDoc fixes in CN_Walker_Term_List."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix misspelling in cnTemplatePart::load()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: phpDoc fixes in cnForm."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix code spacing in areas of code with edits/changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix some misspellings in areas of code with edits/changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Base phpDoc the plugin constants."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Use Yoda conditions in connections.php."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Remove extra blank lines in areas of code with edits/changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Cleanup phpDoc for _upcoming_list()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add minimal phpDoc to cnShortcode_Connections::shortcode()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Cleanup phpDoc in cnSEO."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: phpDoc cleanup of cnMeta."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug which was stripping numeric characters from the entry name when it was being displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug where category slugs were not being quoted which cause querying by category slug to fail."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup logic in cnEntry::setFamilyMembers()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Cleanup/refactor the methods that get the entry name fields in cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Set the edit context when displaying the entry \"name\" fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce cnSanitize::field()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix a phpDoc errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fixed the “Warning: Cannot use a scalar value as an array” error. This error was shown to users when their web host does not have an image processing library installed on the web server. This error should no longer be shown, however, Connections will not be able to dynamically resize images. A notice in the admin will still be displayed, “The server does not have ImageMagick or GD installed and/or enabled. Either of these are required for WordPress to be able to resize images. Please contact your server administrator.” If you see this notice, you will have to contact your web host and request that they install the GD image processing library."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: White screen when uploading an image. This, I believe, is being caused by an older version of the Imagick image processing library. The older version does not contain a required function and will cause a fatal error when Connections tries to use it. This causes the white screen. To address this, Connections no longer uses that function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug with image URL/s when the protocol is https so they are served securely."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix bug that would copy any images from the <code>connections-images</code> folder to the {entry-slug} folder when adding an entry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Add missing stylesheet for datepicker in metabox API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Ensure lat/lng are properly formatted preventing PHP from localizing it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix admin dashboard admin widgets so the so the correct date ranges."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Allow cnRetrieve::entries() to return results with status ‘pending’ for users with the edit moderated capability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Allow the ‘cn_edit_entry_form’ action to be fired if the user’s entry status is approved or pending."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Show the edit entry admin bar link if the entry status is approved or pending if the user has either edit or edit moderated capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BUG: Fix undefined index errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add input attribute accept=”image/*” to both the image and logo upload fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure that the path and URL to images are updated to the current path to account for moving sites or changing the site’s folder structure."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure sub dir is prefixed with a forward slash in cnUpload::subDirectory(). Since it is now being prepended with a forward slash both path and url needed to be untrailingslashit() so the paths are correct when the two are joined with subdir(). This was done to remain consistent with WP core."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Prevent selection of files that are too large to be uploaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add actions/filters to cnImage::upload()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Ensure other plugins can not override the upload path in cnUpload::File()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Include the Dashboard admin page templates only in the admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Only load the System Dashboard widget if the current user can manage options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::set()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnEntry::getName()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnOutput::getNameBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnOutput::getFamilyMemberBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor cnRetrieve::upcoming()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Refactor portions of cnRetrieve::entries() to be cleaner and more efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unused global var from cnOutput::getNameBlock()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Init the template API on the <code>plugins_loaded</code> action hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update EDD-SL Updater to 1.6."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Add the $value options to cnTemplatePart::categorySelect() so the SELECTED options can be set rather than rely on query vars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove unused local vars in cnAdminActions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TWEAK: Remove several deprecated image related functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Compatibility fix to prevent s2member from resetting the custom roles and capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add additional countries and regions to cnGeo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce cnFragment::clear()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce CN_Walker_Category_List."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce cnImage::maxSize()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce cnSanitize::args()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Introduce cnFormatting::replaceWhatWith() and cnFormatting::normalizeString()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add get permalink methods to both cnEntry (returns) and cnOutput (echos). Moved directoryHome page to cnEntry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix a lot of misspellings in the code inline docs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Fix a lot of phpDoc errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add .jshintrc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Add .scrutinizer.yml."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OTHER: Update .editorconfig."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update Spanish (Spain) translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Update Russian (Russia) translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Add Thai translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I18N: Add Romanian (Romania) translation."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<a href=\"http://connections-pro.com/changelog/\">Complete Changelog can be found here.</a>"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I display the business directory on my site?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will it work with my theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is Connections Business Directory translation-ready?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://connections-pro.com/faq/\">FAQs can be found here.</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We have a <a href=\"http://connections-pro.com/quickstart/\">QuickStart</a> available that'll walk you thru the most basic setup. Basically all you need to do is, create a page, and add the <code>[connections]</code> shortcode."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Connections Business Directory has been designed to work with any theme."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes it is. Connections Business Directory comes with many user supplied translations. We use Transifex to manage translations. This service make it easy for us manage and easy for you to translate. To read more, see <a href=\"http://connections-pro.com/documentation/connections/translation/\">this page</a>."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Credits:"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "This plugin was based off LBB, <a href=\"http://wordpress.org/extend/plugins/lbb-little-black-book/\">\"Little Black Book\"</a>; which was based on <a href=\"http://wordpress.org/extend/plugins/addressbook/\">Addressbook</a>, both of which can be found in the Plugin Directory."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "vCard class is a modified version by <a href=\"http://www.troywolf.com/articles/php/class_vcard/\">Troy Wolf</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Image uploading and processing done by the class.upload.php by <a href=\"http://www.verot.net/php_class_upload.htm\">Colin Verot</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Update Notice in plugin admin inspired by Changelogger 1.2.8 by <a href=\"http://wordpress.org/extend/plugins/changelogger/\">Oliver Schlöbe</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "TimThumb by <a href=\"http://code.google.com/p/timthumb/\">Ben Gillbanks and Mark Maunder</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Screen Options class by <a href=\"http://w-shadow.com/blog/2010/06/29/adding-stuff-to-wordpress-screen-options/\">Janis Elsts</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "spin.js by <a href=\"http://fgnass.github.com/spin.js/\">Felix Gnass</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "$.goMap() jQuery Google Maps Plugin by <a href=\"http://www.pittss.lv/jquery/gomap/\">Jevgenijs Shtrauss</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "MarkerClustererPlus jQuery Google Maps Marker Clustering Plugin by <a href=\"http://gmaps-utility-library-dev.googlecode.com/svn/tags/markerclusterer/\">Gary Little</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Validation jQuery plugin by <a href=\"http://bassistance.de/jquery-plugins/jquery-plugin-validation/\">Jörn Zaefferer</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Chosen jQuery plugin by <a href=\"https://github.com/harvesthq/chosen/\">Harvest</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "qTip jQuery plugin by <a href=\"http://craigsworks.com/projects/qtip2/\">Craig Thompson</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Preloading GIF generated by <a href=\"http://www.preloaders.net/\">Preloaders.net</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Email and URL validation methods by <a href=\"http://wpcodesnippets.info/blog/two-useful-php-validation-functions.html\">Gizmo Digital Fusion</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Social media icons by <a href=\"http://www.wpzoom.com/wpzoom/500-free-icons-wpzoom-social-networking-icon-set/\">WPZOOM.com</a>; license <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "iTunes icon by <a href=\"http://paulrobertlloyd.com/\">Paul Robert Lloyd</a>; license <a href=\"http://creativecommons.org/licenses/by-sa/2.0/uk/\">Attribution-ShareAlike 2.0 UK: England &amp; Wales (CC BY-SA 2.0)</a>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Podcast icon by <a href=\"http://findicons.com/icon/94188/podcast_new\">schollidesign</a>; license GNU/GPL."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "CSS theme and image used for the jQuery UI Datepicker by <a href=\"https://github.com/helenhousandi/wp-admin-jquery-ui\">helenhousandi</a>."
+msgstr ""

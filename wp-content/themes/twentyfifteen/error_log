@@ -1,0 +1,9 @@
+[19-Oct-2016 19:45:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Mar-2017 00:09:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Mar-2017 00:09:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Mar-2017 04:57:08 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/functions.php on line 41
+[04-Mar-2017 04:57:08 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/functions.php on line 41
+[26-Apr-2017 12:41:59 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/functions.php on line 41
+[26-Apr-2017 19:46:32 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/functions.php on line 41
+[26-Apr-2017 21:48:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Apr-2017 23:48:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pmmojo/public_html/denverbilliardclub.com/wp-content/themes/twentyfifteen/404.php on line 10
